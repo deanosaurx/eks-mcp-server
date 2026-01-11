@@ -1,8 +1,0 @@
-# MCP Server SDK
-mcp>=1.0.0
-
-# AWS SDK
-boto3>=1.34.0
-
-# Kubernetes Python client
-kubernetes>=28.1.0
