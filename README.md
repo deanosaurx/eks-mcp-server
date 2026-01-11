@@ -20,6 +20,7 @@ This is a **learning implementation** to shows the basics of:
 -  `describe_cluster` - Get cluster details
 -  `list_k8s_resources` - List pods, services, deployments, nodes
 -  `get_resource_details` - Get detailed info about a specific resource
+-  `get_pod_metrics` - Get CPU and memory metrics for pods
 
 ### Sensitive Data Tools (Requires `--allow-sensitive-data-access`)
 -  `get_pod_logs` - Retrieve pod logs
